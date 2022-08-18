@@ -46,6 +46,6 @@ In a set of downstream tasks, we've taken the output answers and related abstrac
 ### WordCloud 
 ![Alt text](https://github.com/Kushal2797/NLP_Deep_Learning/blob/main/Screen%20Shot%202022-08-18%20at%2012.16.10%20PM.png "WordCloud Summary")
 
-### Mean Resiprocal Rank 
+### Mean Reciprocal Rank 
 ![Alt text](https://github.com/Kushal2797/NLP_Deep_Learning/blob/main/Screen%20Shot%202022-08-18%20at%2012.20.53%20PM.png "MRR")
 
